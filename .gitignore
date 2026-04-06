@@ -1,0 +1,143 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Pyenv
+.python-version
+
+# Spyder project settings
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Editor backups
+*~
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints
+
+# Local env files
+.env
+.env.*
+.envrc
+
+# Log files
+*.log
+logs/
+
+# Database files
+*.sqlite3
+*.db
+
+# Compiled static files
+staticfiles/
+*.webp
+
+# Coverage and reports
+coverage/
+reports/
+
+# Wheel cache
+.wheelhouse/
+
+# Build artifacts
+build/
+
+# Python bytecode cache dirs
+**/__pycache__/
+
+# JetBrains
+.idea/
+
+# Backup files
+*.bak
+*.orig
+
+# Local machine specific
+.vagrant/
+
+# Node
+node_modules/
+
+# Ignore generated graphs/images for analysis
+*.png
+*.dot
+
+# Ignore sensitive files
+credentials.yaml
+secrets.yaml
+secret*.txt
+
+# Ignore compiled C artifacts
+*.so
+
+# Ignore IDE-specific project files
+*.project
+
+# End of file
