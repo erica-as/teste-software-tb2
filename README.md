@@ -1,5 +1,3 @@
-Gilded Rose — Iteração 2: Auditoria (Resumo)
-
 Objetivo
 --------
 Auditar o método `update_quality` em `GildedRose-Refactoring-Kata/Python/gilded_rose.py` para verificar se a suíte de testes gerada pelo Deep Seek cobre os caminhos relevantes e identificar casos de teste faltantes por meio de análise caixa-branca (CFG e complexidade ciclomática).
